@@ -1,10 +1,10 @@
 # Awesome AI Roadmap & Free Resources
 
-> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects, 71 research papers, 31 blogs and newsletters, 30 yearly AI conferences, and 10 downloadable PDFs. **407+ free links**, organised in the order you should study them.
+> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects, 71 research papers, 31 blogs and newsletters, 30 yearly AI conferences, 48 internship and job links, and 10 downloadable PDFs. **455+ free links**, organised in the order you should study them.
 
 ![Awesome](https://awesome.re/badge.svg)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Free resources](https://img.shields.io/badge/resources-407%2B-blue.svg)
+![Free resources](https://img.shields.io/badge/resources-455%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 **Who is this for?** Students, career-switchers and engineers who want a clear order to learn maths, Python, machine learning, deep learning, LLMs, RAG and agents, without hunting through a hundred tabs. If it helps you, **please give it a ⭐ so others can find it.**
@@ -17,6 +17,7 @@
 - [📄 Research papers](#-research-papers)
 - [✍️ Blogs and newsletters](#-blogs-and-newsletters)
 - [🎓 Top AI conferences](#-top-ai-conferences)
+- [💼 Internships and jobs](#-internships-and-jobs)
 - [📥 Downloadable PDFs](#-downloadable-pdfs)
 - [🤝 Contributing](#-contributing)
 
@@ -240,6 +241,28 @@ _30 conferences and events held every year, with official sites. [See them all �
 _These are the conferences held **every year**. Dates and cities change each year, so check the official site. ICCV (odd years) and ECCV (even years) alternate, so they are not listed here; together with CVPR there is a major vision conference every year._
 
 **Read the papers for free:** [NeurIPS proceedings](https://papers.nips.cc/) · [PMLR](https://proceedings.mlr.press/) · [OpenReview](https://openreview.net/) · [CVF Open Access](https://openaccess.thecvf.com/) · [ACL Anthology](https://aclanthology.org/)
+
+## 💼 Internships and jobs
+
+_48 places to apply: IIT summer programmes, research fellowships, job platforms, AI labs and big tech. [See everything →](internships.md)_
+
+### IIT summer research internships
+
+| Programme | Host | Who it is for | Applications usually |
+| --- | --- | --- | --- |
+| **[SRIP: Summer Research Internship Programme](https://srip.iitgn.ac.in/)** | IIT Gandhinagar | Undergraduate and postgraduate students | Around March, for a summer internship |
+| **[Summer Fellowship Programme](https://www.iitm.ac.in/)** | IIT Madras | Students from colleges other than the IITs | Around February to March, for the summer |
+| **[SURE: Summer Undergraduate Research Exposure](https://iith.ac.in/)** | IIT Hyderabad | Undergraduate students from other institutions | Around March, for the summer |
+| **[SURGE: Summer Undergraduate Research Graduate Excellence](https://www.iitk.ac.in/)** | IIT Kanpur | Indian students from other institutions (administered by the Centre for Continuing Education) | Early in the year, for the summer |
+| **[IITK-RISE: Research Internships in Science and Engineering](https://iitk.ac.in/oir/iitk-rise-internship-programme)** | IIT Kanpur | International students | Check the programme page |
+| **[Research Internship Awards](https://www.iitb.ac.in/)** | IIT Bombay | External students from recognised institutes | Has opened around August to September in the past |
+| **[Summer research internships](https://home.iitd.ac.in/)** | IIT Delhi | Varies by department | Check the Academics and internship pages |
+
+_Programmes, eligibility, stipends and dates change every year, and some programmes pause. Always confirm on the official page before you plan around one. Several links open the institute's main site, because programme pages move every year: look there for the internship or summer programme notice._
+
+**Also look at:** [Science Academies' Summer Research Fellowship (SRFP)](https://www.ias.ac.in/) · [Indian National Science Academy (INSA)](https://www.insaindia.res.in/) · [Google Summer of Code](https://summerofcode.withgoogle.com/) · [MLH Fellowship](https://fellowship.mlh.io/)
+
+**Where to apply:** [Internshala](https://internshala.com/) · [LinkedIn Jobs](https://www.linkedin.com/jobs/) · [Naukri](https://www.naukri.com/) · [Unstop](https://unstop.com/internships) · [Wellfound](https://wellfound.com/jobs) · [Cutshort](https://cutshort.io/) · [Instahyre](https://www.instahyre.com/) · [Indeed India](https://in.indeed.com/) and more in [internships.md](internships.md).
 
 ## 📥 Downloadable PDFs
 
