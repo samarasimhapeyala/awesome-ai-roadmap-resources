@@ -7,7 +7,7 @@
 ![Free resources](https://img.shields.io/badge/resources-455%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
-**Who is this for?** Students, career-switchers and engineers who want a clear order to learn maths, Python, machine learning, deep learning, LLMs, RAG and agents, without hunting through a hundred tabs. If it helps you, **please give it a ⭐ so others can find it.**
+**Who is this for?** Students, career-switchers and engineers who want a clear order to learn maths, Python, machine learning, deep learning, LLMs, RAG and agents, without hunting through a hundred tabs. If it helps you, **please give it a ⭐ so others can find it.** For more, visit **[resnur.com](https://resnur.com)**.
 
 ## Contents
 
@@ -19,6 +19,7 @@
 - [🎓 Top AI conferences](#-top-ai-conferences)
 - [💼 Internships and jobs](#-internships-and-jobs)
 - [📥 Downloadable PDFs](#-downloadable-pdfs)
+- [🌐 More from resnur. AI](#-more-from-resnur-ai)
 - [🤝 Contributing](#-contributing)
 
 ## 🗺️ The roadmap
@@ -283,6 +284,16 @@ _10 PDFs: roadmaps and interview question sets you can read or download._
 - **[AI System Design Interview Questions](pdfs/interview-questions/ai-system-design-questions.pdf)**: Real-world AI architectures, from clarifying a vague brief to scale and cost. (18 pages, 494 KB)
 - **[AI Architecture Trade-Offs](pdfs/interview-questions/ai-architecture-trade-offs.pdf)**: RAG vs fine-tuning, vLLM vs Triton, FP8 vs INT4 and more: the decisions behind production AI. (17 pages, 3.0 MB)
 - **[AI Security & Guardrails](pdfs/interview-questions/ai-security-and-guardrails.pdf)**: Prompt injection, jailbreaks, RAG poisoning and the guardrail stack that defends against them. (17 pages, 756 KB)
+
+## 🌐 More from resnur. AI
+
+Want more than links? **[resnur. AI](https://resnur.com)** teaches AI the visual way, with interview prep for AI, ML and GenAI roles.
+
+- **[Complete AI Roadmap course](https://resnur.com/courses/ai-roadmap)**: the free, step-by-step version of this roadmap, with progress tracking.
+- **[Cheatsheets](https://resnur.com/cheatsheets)**: quick references for ML, deep learning, GenAI, RAG and MLOps.
+- **[Resume guide](https://resnur.com/resume-guide)**: advice and sample resumes by role.
+
+More at **[resnur.com](https://resnur.com)**.
 
 ## 🤝 Contributing
 
