@@ -2,7 +2,7 @@
 
 > Cleaning, storing and moving data: SQL, pipelines, DSA and reporting.
 
-**Pace:** 6–8 weeks (part-time) · **Topics:** 6 · **Free resources:** 36
+**Pace:** 6–8 weeks (part-time) · **Topics:** 6 · **Free resources:** 35
 
 [← Back to the roadmap](../README.md#-the-roadmap)
 
@@ -28,7 +28,6 @@ _Programming_
 
 The patterns coding rounds test: arrays and hashing, two pointers and sliding windows, stacks, heaps, binary search, trees and graphs, tries, and dynamic programming. Depth depends on the role: essential for ML engineer and fresher hiring, light for analytics-focused data science.
 
-- [Resnur: DSA for AI/ML Interviews (free lesson)](/courses/ml?lesson=dsa-for-ml-interviews)
 - [Coursera: Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - [LeetCode: DSA Crash Course](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
 - [YouTube: CS50 (Harvard)](https://www.youtube.com/watch?v=8mAITcNt710)

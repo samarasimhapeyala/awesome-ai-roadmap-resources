@@ -1,10 +1,10 @@
 # Awesome AI Roadmap & Free Resources
 
-> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects, 19 cheatsheets and resume + interview guides. **270+ free links**, organised in the order you should study them.
+> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects and 10 downloadable PDFs. **269+ free links**, organised in the order you should study them.
 
 ![Awesome](https://awesome.re/badge.svg)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Free resources](https://img.shields.io/badge/resources-270%2B-blue.svg)
+![Free resources](https://img.shields.io/badge/resources-269%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 **Who is this for?** Students, career-switchers and engineers who want a clear order to learn maths, Python, machine learning, deep learning, LLMs, RAG and agents, without hunting through a hundred tabs. If it helps you, **please give it a ⭐ so others can find it.**
@@ -14,9 +14,7 @@
 - [🗺️ The roadmap](#-the-roadmap)
 - [📚 Free handbooks and books](#-free-handbooks-and-books)
 - [🛠️ Portfolio projects](#-portfolio-projects)
-- [🧾 Cheatsheets](#-cheatsheets)
-- [📄 Resume guides](#-resume-guides)
-- [🎤 HR and behavioural guide](#-hr-and-behavioural-interview-guide)
+- [📥 Downloadable PDFs](#-downloadable-pdfs)
 - [🤝 Contributing](#-contributing)
 
 ## 🗺️ The roadmap
@@ -188,75 +186,25 @@ _32 projects that come up in AI/ML interviews, each with free guides to build it
 - **Design a GenAI platform** · _Advanced_: An architecture write-up and prototype of an LLM gateway: routing, caching, guardrails, observability and evals.
 
 
-## 🧾 Cheatsheets
+## 📥 Downloadable PDFs
 
-_19 cheatsheets for quick revision, on resnur.com. Some open for everyone; the rest unlock with any course._
+_10 PDFs: roadmaps and interview question sets you can read or download._
 
-### Interview Prep
+### Roadmaps
 
-- [50 Data Science & AI Terms You'll Be Asked About](https://resnur.com/cheatsheets/data-science-ai-terms) · 6 min
+- **[AI roadmap: beginner path](pdfs/roadmaps/ai-roadmap-beginner.pdf)**: The beginner AI learning path, as a PDF.
+- **[Zero to hired: AI engineering roadmap](pdfs/roadmaps/zero-to-hired-ai-engineering-roadmap.pdf)**: The zero-to-hired AI engineering roadmap, as a PDF.
 
-### GenAI & LLMs
+### Interview questions
 
-- [RAG (Retrieval-Augmented Generation)](https://resnur.com/cheatsheets/rag) · 6 min
-- [Prompt Engineering](https://resnur.com/cheatsheets/prompt-engineering) · 6 min
-- [Embeddings & Vector Search](https://resnur.com/cheatsheets/embeddings-vector-search) · 5 min
-- [Fine-Tuning with LoRA & QLoRA](https://resnur.com/cheatsheets/fine-tuning-lora-qlora) · 5 min
-
-### Machine Learning
-
-- [Machine Learning Algorithms: When to Use What](https://resnur.com/cheatsheets/ml-algorithms) · 6 min
-- [ML Evaluation Metrics](https://resnur.com/cheatsheets/ml-evaluation-metrics) · 5 min
-
-### Deep Learning
-
-- [Transformers & Attention](https://resnur.com/cheatsheets/transformers-attention) · 5 min
-- [Deep Learning & PyTorch](https://resnur.com/cheatsheets/deep-learning-pytorch) · 6 min
-
-### Agentic AI
-
-- [LangChain & LangGraph](https://resnur.com/cheatsheets/langchain-langgraph) · 4 min
-- [AI Agents & Tool Use](https://resnur.com/cheatsheets/ai-agents) · 5 min
-
-### MLOps
-
-- [MLOps Essentials](https://resnur.com/cheatsheets/mlops-essentials) · 5 min
-- [Docker & Kubernetes for ML](https://resnur.com/cheatsheets/docker-kubernetes) · 5 min
-
-### Programming
-
-- [Python for Machine Learning](https://resnur.com/cheatsheets/python-for-ml) · 7 min
-- [DSA Patterns for AI/ML Coding Rounds](https://resnur.com/cheatsheets/dsa-patterns) · 4 min
-- [NumPy & Pandas](https://resnur.com/cheatsheets/numpy-pandas) · 5 min
-- [FastAPI for Model Serving](https://resnur.com/cheatsheets/fastapi-model-serving) · 4 min
-
-### Databases
-
-- [SQL for Data Science](https://resnur.com/cheatsheets/sql-for-data-science) · 7 min
-
-### Math & Stats
-
-- [Statistics & Probability](https://resnur.com/cheatsheets/statistics-probability) · 6 min
-
-
-## 📄 Resume guides
-
-Advice and sample resumes for each role, from fresher to 5+ years: **[resnur.com/resume-guide](https://resnur.com/resume-guide)**
-
-- [AI / ML Engineer](https://resnur.com/resume-guide?role=ml-engineer): Builds, ships and runs machine learning models in production.
-- [Data Scientist](https://resnur.com/resume-guide?role=data-scientist): Turns data into decisions with experiments, statistics and models.
-- [GenAI / LLM Engineer](https://resnur.com/resume-guide?role=genai-engineer): Builds LLM products: RAG, agents, fine-tuning and evaluation.
-- [MLOps Engineer](https://resnur.com/resume-guide?role=mlops-engineer): Makes model training, release and monitoring reliable and repeatable.
-- [Data Analyst](https://resnur.com/resume-guide?role=data-analyst): Answers business questions with SQL, dashboards and clear analysis.
-- [Data Engineer](https://resnur.com/resume-guide?role=data-engineer): Builds the pipelines, warehouses and streams everyone else depends on.
-
-## 🎤 HR and behavioural interview guide
-
-Everything around the technical round: HR screening calls, online and in-person interview etiquette, the behavioral and managerial rounds, and how to negotiate salary as a fresher or at 1–3 years of experience.
-
-Sections: Before You Get the Call · How to Answer "Tell Me About Yourself" · The HR Screening Call · Online Interview Etiquette · In-Person Interview Etiquette · The Behavioral Round (STAR Method) · The Managerial / Culture-Fit Round · Salary Negotiation: Freshers · Salary Negotiation: 1–3 Years Experience · After the Interview · Quick Reference: Do's and Don'ts
-
-**[Read the guide →](https://resnur.com/interview-guide)**
+- **[100+ Gen AI Interview Questions](pdfs/interview-questions/genai-interview-questions.pdf)**: Transformers, prompting, embeddings, vector databases, RAG, fine-tuning, agents, evaluation and system design. (10 pages, 719 KB)
+- **[LLM Interview Questions](pdfs/interview-questions/llm-interview-questions.pdf)**: Short, precise answers on architecture, KV cache, RAG, LoRA, RLHF and DPO, evals, cost and serving. (33 pages, 1.5 MB)
+- **[MLOps Interview Scenarios](pdfs/interview-questions/mlops-interview-scenarios.pdf)**: System design scenarios on model serving, drift, CI/CD, scale, cost and GPU infrastructure. (18 pages, 519 KB)
+- **[Top 50 LLM Questions](pdfs/interview-questions/top-50-llm-questions.pdf)**: The LLM questions asked for GenAI developer, AI engineer and applied scientist roles. (51 pages, 4.0 MB)
+- **[100+ Top AI & ML Interview Questions](pdfs/interview-questions/top-ai-ml-interview-questions.pdf)**: Machine learning, deep learning, NLP and LLMs, AI agents, MLOps, ethics and safety. (9 pages, 493 KB)
+- **[AI System Design Interview Questions](pdfs/interview-questions/ai-system-design-questions.pdf)**: Real-world AI architectures, from clarifying a vague brief to scale and cost. (18 pages, 494 KB)
+- **[AI Architecture Trade-Offs](pdfs/interview-questions/ai-architecture-trade-offs.pdf)**: RAG vs fine-tuning, vLLM vs Triton, FP8 vs INT4 and more: the decisions behind production AI. (17 pages, 3.0 MB)
+- **[AI Security & Guardrails](pdfs/interview-questions/ai-security-and-guardrails.pdf)**: Prompt injection, jailbreaks, RAG poisoning and the guardrail stack that defends against them. (17 pages, 756 KB)
 
 ## 🤝 Contributing
 
@@ -265,10 +213,6 @@ Found a better free resource, a dead link or a missing topic? Please [open an is
 ## ⭐ Support the project
 
 If this saved you time, star the repo and share it with a friend who is starting out. It's the best way to help it reach the people who need it.
-
-## Made by resnur. AI
-
-This list is maintained by [resnur. AI](https://resnur.com): visual, interview-focused AI learning. The full **[Complete AI Roadmap course](https://resnur.com/courses/ai-roadmap)** is free, with progress tracking and downloadable PDFs.
 
 ## License
 
