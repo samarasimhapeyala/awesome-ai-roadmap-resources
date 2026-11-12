@@ -1,10 +1,10 @@
 # Awesome AI Roadmap & Free Resources
 
-> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects, 71 research papers, 31 blogs and newsletters, and 10 downloadable PDFs. **371+ free links**, organised in the order you should study them.
+> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects, 71 research papers, 31 blogs and newsletters, 30 yearly AI conferences, and 10 downloadable PDFs. **407+ free links**, organised in the order you should study them.
 
 ![Awesome](https://awesome.re/badge.svg)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Free resources](https://img.shields.io/badge/resources-371%2B-blue.svg)
+![Free resources](https://img.shields.io/badge/resources-407%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 **Who is this for?** Students, career-switchers and engineers who want a clear order to learn maths, Python, machine learning, deep learning, LLMs, RAG and agents, without hunting through a hundred tabs. If it helps you, **please give it a ⭐ so others can find it.**
@@ -16,6 +16,7 @@
 - [🛠️ Portfolio projects](#-portfolio-projects)
 - [📄 Research papers](#-research-papers)
 - [✍️ Blogs and newsletters](#-blogs-and-newsletters)
+- [🎓 Top AI conferences](#-top-ai-conferences)
 - [📥 Downloadable PDFs](#-downloadable-pdfs)
 - [🤝 Contributing](#-contributing)
 
@@ -220,6 +221,25 @@ _31 blogs, newsletters and posts. [See the full list →](blogs.md)_
 - **[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)**: Evals, RAG, fine-tuning, caching and guardrails.
 
 **Follow:** [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) · [Andrej Karpathy](https://karpathy.github.io/) · [Jay Alammar](https://jalammar.github.io/) · [Chris Olah (colah's blog)](https://colah.github.io/) · [Chip Huyen](https://huyenchip.com/blog/) · [Sebastian Raschka: Ahead of AI](https://magazine.sebastianraschka.com/) and more in [blogs.md](blogs.md).
+
+## 🎓 Top AI conferences
+
+_30 conferences and events held every year, with official sites. [See them all →](conferences.md)_
+
+| Conference | What it is for | Usually held |
+| --- | --- | --- |
+| **[NeurIPS](https://neurips.cc/)**<br><sub>Conference on Neural Information Processing Systems</sub> | The largest and broadest machine learning conference. | December |
+| **[ICML](https://icml.cc/)**<br><sub>International Conference on Machine Learning</sub> | Core machine learning methods and theory. | July |
+| **[ICLR](https://iclr.cc/)**<br><sub>International Conference on Learning Representations</sub> | Deep learning and representation learning; papers and reviews are public on OpenReview. | April or May |
+| **[CVPR](https://cvpr.thecvf.com/)**<br><sub>IEEE/CVF Conference on Computer Vision and Pattern Recognition</sub> | The top computer vision conference. | June |
+| **[ACL](https://www.aclweb.org/)**<br><sub>Annual Meeting of the Association for Computational Linguistics</sub> | The flagship natural language processing conference. | July or August |
+| **[EMNLP](https://aclanthology.org/venues/emnlp/)**<br><sub>Conference on Empirical Methods in Natural Language Processing</sub> | Empirical NLP, with a lot of LLM work. | November |
+| **[AAAI](https://aaai.org/conference/aaai/)**<br><sub>AAAI Conference on Artificial Intelligence</sub> | One of the oldest and broadest AI conferences. | February |
+| **[KDD](https://kdd.org/)**<br><sub>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</sub> | Data mining and applied machine learning, with a strong industry track. | August |
+
+_These are the conferences held **every year**. Dates and cities change each year, so check the official site. ICCV (odd years) and ECCV (even years) alternate, so they are not listed here; together with CVPR there is a major vision conference every year._
+
+**Read the papers for free:** [NeurIPS proceedings](https://papers.nips.cc/) · [PMLR](https://proceedings.mlr.press/) · [OpenReview](https://openreview.net/) · [CVF Open Access](https://openaccess.thecvf.com/) · [ACL Anthology](https://aclanthology.org/)
 
 ## 📥 Downloadable PDFs
 
