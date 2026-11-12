@@ -1,10 +1,10 @@
 # Awesome AI Roadmap & Free Resources
 
-> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects and 10 downloadable PDFs. **269+ free links**, organised in the order you should study them.
+> A one-stop, hand-curated path from **zero to AI engineer**: a 5-stage roadmap, 30 free books, 32 portfolio projects, 71 research papers, 31 blogs and newsletters, and 10 downloadable PDFs. **371+ free links**, organised in the order you should study them.
 
 ![Awesome](https://awesome.re/badge.svg)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Free resources](https://img.shields.io/badge/resources-269%2B-blue.svg)
+![Free resources](https://img.shields.io/badge/resources-371%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 **Who is this for?** Students, career-switchers and engineers who want a clear order to learn maths, Python, machine learning, deep learning, LLMs, RAG and agents, without hunting through a hundred tabs. If it helps you, **please give it a ⭐ so others can find it.**
@@ -14,6 +14,8 @@
 - [🗺️ The roadmap](#-the-roadmap)
 - [📚 Free handbooks and books](#-free-handbooks-and-books)
 - [🛠️ Portfolio projects](#-portfolio-projects)
+- [📄 Research papers](#-research-papers)
+- [✍️ Blogs and newsletters](#-blogs-and-newsletters)
 - [📥 Downloadable PDFs](#-downloadable-pdfs)
 - [🤝 Contributing](#-contributing)
 
@@ -185,6 +187,39 @@ _32 projects that come up in AI/ML interviews, each with free guides to build it
 - **Model monitoring and drift detection** · _Intermediate_: Monitor a deployed model's inputs and predictions, simulate drift, and alert before quality drops.
 - **Design a GenAI platform** · _Advanced_: An architecture write-up and prototype of an LLM gateway: routing, caching, guardrails, observability and evals.
 
+
+## 📄 Research papers
+
+_71 landmark papers, all linked on arXiv. [Browse them all by topic →](papers.md)_
+
+**If you only read 10:**
+
+1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Vaswani et al., 2017
+2. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805): Devlin et al., 2018
+3. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): Brown et al., 2020
+4. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): Ouyang et al., 2022
+5. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685): Hu et al., 2021
+6. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): Lewis et al., 2020
+7. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903): Wei et al., 2022
+8. [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629): Yao et al., 2022
+9. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290): Rafailov et al., 2023
+10. [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135): Dao et al., 2022
+
+Topics covered: Foundations of deep learning, Transformers and large language models, Alignment and post-training, Fine-tuning and efficiency, Inference and serving, Retrieval and RAG, Reasoning and prompting, Agents and tool use, Vision, speech and multimodal, Generative models, Reinforcement learning, Evaluation and safety.
+
+## ✍️ Blogs and newsletters
+
+_31 blogs, newsletters and posts. [See the full list →](blogs.md)_
+
+- **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)**: The clearest visual walk-through of the transformer.
+- **[The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)**: The transformer paper, line by line in code.
+- **[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)**: A classic on what RNNs can do.
+- **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**: A thorough overview of agent design.
+- **[What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)**: A long, plain-language explanation.
+- **[Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)**: The challenges of shipping LLM apps.
+- **[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)**: Evals, RAG, fine-tuning, caching and guardrails.
+
+**Follow:** [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) · [Andrej Karpathy](https://karpathy.github.io/) · [Jay Alammar](https://jalammar.github.io/) · [Chris Olah (colah's blog)](https://colah.github.io/) · [Chip Huyen](https://huyenchip.com/blog/) · [Sebastian Raschka: Ahead of AI](https://magazine.sebastianraschka.com/) and more in [blogs.md](blogs.md).
 
 ## 📥 Downloadable PDFs
 
